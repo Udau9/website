@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Portfolio of Uday"
+  navbar:
+    left:
+    - about me.qmd
+    - work experience.qmd
+      
+    
+format:
+  html:
+    theme: Superhero
